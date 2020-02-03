@@ -1,0 +1,42 @@
+{
+    "activityName": "MainActivity",
+    "diningExperienceModel": {
+        "componentType": "DiningExperienceModel",
+        "title": "Dining Experience",
+        "serviceType": "Vegeterian"
+    },
+    "findOnMapViewMenuModel": {
+        "componentType": "FindOnMapViewMenuModel",
+        "findOnMapImage": "image_url",
+        "viewMenuImage": "image_url",
+        "findOnMapTitle": "Find on Map",
+        "viewMenuTitle" : "View Menu"
+    },
+    "imageHeaderModel": {
+        "componentType": "ImageHeaderModel",
+        "imageResource": "image_url",
+        "imageResourceIcon": "image_url",
+        "title": "The Tropical Hideway",
+        "park": "Disneyland Park",
+        "land": "Adventureland"
+    },
+    "schedulesModel": {
+        "componentType": "SchedulesModel",
+        "title": "Snack",
+        "hours": "10:00 AM to 11:00 PM",
+        "price": "$14.99 and under per adult",
+        "type": "Quick Service Restaurant"
+    },
+    "typeOfCuisineModel": {
+        "componentType": "TypeOfCuisineModel",
+        "title": "Type of Cuisine",
+        "hours" : "Vegeterian",
+    },
+    "paragraphComponentModel": {
+        "componentType" : "ParagraphComponentModel",
+        "text" : "Escape to an amazing jungle oasis offering fast n easy fare with a sense of adventure in the air!",
+        "title" : "An Outpost for All",
+        "secondParagraph" : "Explore the wilds of the park, then kick back and enjoy delish dishes amidsts this lush , trader's market",
+    }
+}
+
