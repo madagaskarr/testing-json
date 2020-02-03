@@ -1,4 +1,4 @@
-{
+
     "activityName": "MainActivity",
     "diningExperienceModel": {
         "componentType": "DiningExperienceModel",
@@ -38,5 +38,5 @@
         "title" : "An Outpost for All",
         "secondParagraph" : "Explore the wilds of the park, then kick back and enjoy delish dishes amidsts this lush , trader's market",
     }
-}
+
 
