@@ -30,12 +30,12 @@
     "typeOfCuisineModel": {
         "componentType": "TypeOfCuisineModel",
         "title": "Type of Cuisine",
-        "hours" : "Vegeterian",
+        "hours" : "Vegeterian"
     },
     "paragraphComponentModel": {
         "componentType" : "ParagraphComponentModel",
         "text" : "Escape to an amazing jungle oasis offering fast n easy fare with a sense of adventure in the air!",
         "title" : "An Outpost for All",
-        "secondParagraph" : "Explore the wilds of the park, then kick back and enjoy delish dishes amidsts this lush , trader's market",
+        "secondParagraph" : "Explore the wilds of the park, then kick back and enjoy delish dishes amidsts this lush , trader's market"
     }
 }
